@@ -15,3 +15,7 @@ Ensure that the following libraries are installed before testing the code:
 - [Arduino Json](https://github.com/bblanchon/ArduinoJson), ensure that the installed version is 5.X instead of 6.X!
 ### Motor Driver
 - [Grove I2C Motor Driver Library](https://github.com/Seeed-Studio/Grove_I2C_Motor_Driver)
+
+## Contributions
+- [@1487quantum](https://github.com/1487quantum)
+- [@schoolex](https://github.com/schoolex)
