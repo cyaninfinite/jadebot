@@ -1,4 +1,6 @@
 # Jadebot
+![License](https://img.shields.io/github/license/1487quantum/jadebot?style=for-the-badge)
+
 Augement your plant with Jade the plant companion! This is the repository for the hardware aspect of the Jadebot, more details of the project could be found [here](https://cyaninfinite.com/hack-n-roll-2020) and [here](https://devpost.com/software/jade-companion).
 
 ## Components
